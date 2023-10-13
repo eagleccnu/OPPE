@@ -3,7 +3,7 @@ This program is to predict protein order parameter based on NMR structure ensemb
 The NMR structure ensemble is provided by PDB file.
 
 To run this program, python and some python modules should be setup:
-pytorch, numpy, scikit-learn, pandas, pynmrstar and Bio.PDB.
+pytorch, numpy, scikit-learn, pandas, pynmrstar and biopython.
 
 usage example: python3 pre.py 2jwt.pdb
 
